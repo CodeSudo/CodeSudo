@@ -1,4 +1,5 @@
 ## Algorithms are opinions embedded in code.
+## Algorithms ARE EVERYWHERE. THEY SORT AND SEPARATE THE WINNERS FROM THE LOSERS.
 <img src="https://github.com/Iampradeepkundra/Iampradeepkundra/blob/master/algo.gif">
 
 - 🔭 I’m currently working on Personal Projects.
