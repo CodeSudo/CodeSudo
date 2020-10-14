@@ -1,5 +1,5 @@
 ## Algorithms are opinions embedded in code.
-<img src="https://github.com/Iampradeepkundra/Iampradeepkundra/blob/master/hello123.gif">
+<img src="https://github.com/Iampradeepkundra/Iampradeepkundra/blob/master/master.gif">
 
 - 🔭 I’m currently working on Personal Projects.
 - 🌱 I’m currently learning Machine Learning Algorithms/Deep Learning.
