@@ -1,14 +1,14 @@
 ## Algorithms are opinions embedded in code.
 <img src="https://github.com/CodeSudo/CodeSudo/blob/master/biker.gif">
 
-- 🔭 I’m currently working on Personal Projects.
-- 🌱 I’m currently learning Machine Learning Algorithms/Deep Learning.
-- 👯 I’m looking to collaborate on ML projects.
-- 💬 Ask me about how models work from scratch.
-- 📫 Reach me at: https://www.linkedin.com/in/pradeep-kundra-15a518116/
-- 🐍 PyPi at: https://pypi.org/user/pradeepsinghkundra01
-- ⚡ Fun fact: When not on computer, you can find me playing 🎸
-- 🧙 Still waiting for my Hogwarts letter. 
+- 🔭 
+- 🌱 
+- 👯 
+- 💬 
+- 📫 
+- 🐍
+- ⚡ 
+- 🧙
 
 
 
