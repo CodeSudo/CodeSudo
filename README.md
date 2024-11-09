@@ -1,5 +1,5 @@
 ## Algorithms are opinions embedded in code.
-<img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u">
+<img src="https://github.com/CodeSudo/CodeSudo/blob/main/giphy2.gif">
 
 - 🔭 
 - 🌱 
