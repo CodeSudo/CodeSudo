@@ -1,5 +1,5 @@
 ## Algorithms are opinions embedded in code.
-<img src="https://github.com/CodeSudo/CodeSudo/blob/main/giphy2.gif">
+<img src="https://github.com/CodeSudo/CodeSudo/blob/main/giphy2.gif" height=200px width=200px>
 
 - 🔭 
 - 🌱 
